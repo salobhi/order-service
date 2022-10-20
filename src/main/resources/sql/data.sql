@@ -1,0 +1,3 @@
+-- insert into ORDERS (seller_name,price) values('Shahid',26);
+-- insert into ORDERS (seller_name,price) values('Rehan',50);
+-- insert into ORDERS (seller_name,price) values('Arslan',100);
